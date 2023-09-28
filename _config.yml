@@ -73,11 +73,32 @@ content:
           Das Moneta DAO ist eine On-Chain-Community, die die Entwicklung des Moneta-Ökosystems steuert, einem auf Stablecoins ausgerichteten Ökosystem, einschließlich des DeFi-Franc. Moneta DAO wurde von Grizzly.fi entwickelt.
 
           <strong>Position</strong>
+
           Smart Contract Engineer, Software-Entwickler Backend
 
           <strong>Technologien</strong>
+
           <mark>Solidity</mark>, <mark>NodeJS</mark>, <mark>Hardhat</mark>, <mark>ethers.js</mark>, <mark>Angular</mark>, <mark>JWT</mark>, <mark>Docker</mark>
 
+      - layout: top-middle
+        title: Smart Dossier
+        # link: grizzly.fi
+        # link_text: Project Website
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          The most dynamic patient dossier available
+        description: | # this will include new lines to allow paragraphs
+          Smart Dossier ist eine Webplattform, die es TCM-Mediziner erlaubt, ihre Patientendossiers zu digitalisieren. Die Patientendossiers werden aus einer frei wählbaren Konfiguration erstellt, was es den Ärzten erlaubt, diese auf ihre Bedürfnisse anzupassen. Die Plattform ist mit OneDoc verbunden, wodurch der Kalender und die Patienten synchronisiert werden können.
+
+          <strong>Position</strong>
+
+          Backend Software-Engineer
+
+          <strong>Technologien</strong>
+
+          <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>MongoDB</mark>, <mark>Docker</mark>, <mark>JWT</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

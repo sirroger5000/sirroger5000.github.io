@@ -54,6 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   Ich bin stolz auf meine Arbeit an anspruchsvollen Projekten, bei denen ich innovative Lösungen entwickelt habe, um komplexe Probleme zu lösen und die Benutzererfahrung zu verbessern. Ich bin immer bestrebt, meine Fähigkeiten und Kenntnisse zu erweitern und auf dem neuesten Stand der Technologie zu bleiben.
 
+  <em>Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. (Steve Jobs)</em>
+
 content:
   - title: Berufserfahrung # Title for the section
     layout: list # Type of content section (list/text)

@@ -12,12 +12,12 @@ email: roger@staubli-software-solutions.ch
 website: https://staubli-software-solutions.ch
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  sirroger5000
-stackoverflow_username: "sirroger"
+#github_username:  sirroger5000
+stackoverflow_username: "15197038"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -25,7 +25,7 @@ stackoverflow_username: "sirroger"
 linkedin_username: rogerstaubli
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: rs-crypto-university
+youtube_username: @rs-crypto-university
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 

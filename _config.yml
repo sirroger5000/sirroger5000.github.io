@@ -316,7 +316,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Made With Love
 
 # Build settings
 remote_theme: sproogen/resume-theme

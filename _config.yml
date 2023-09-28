@@ -55,6 +55,69 @@ about_content: | # this will include new lines to allow paragraphs
   Ich bin stolz auf meine Arbeit an anspruchsvollen Projekten, bei denen ich innovative Lösungen entwickelt habe, um komplexe Probleme zu lösen und die Benutzererfahrung zu verbessern. Ich bin immer bestrebt, meine Fähigkeiten und Kenntnisse zu erweitern und auf dem neuesten Stand der Technologie zu bleiben.
 
 content:
+    - title: Berufserfahrung # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Staubli Software Solutions
+          link: https://staubli-software-solutions.ch
+          # link_text: boringcompany.com
+          sub_title: Owner/Freelancer
+          caption: August 2020 - heute
+          quote: >
+            Your Partner for Web Development
+          description: | # this will include new lines to allow paragraphs
+              - Entwicklung, Support und Hosting von massgeschneiderten Softwarelösungen im Web-Bereich
+              - Umsetzung von proprietären Softwarelösungen und Kundenprojekten in unterschiedlichen Geschäftsbereichen wie FinTech, EdTech und DeFi
+
+        - layout: left
+          title: c-alm AG
+          link: https://c-alm.ch
+          # link_text: boringcompany.com
+          sub_title: CTO
+          caption: Oktober 2018 - August 2020
+          quote: >
+            The Pension Consultant
+          description: | # this will include new lines to allow paragraphs
+              - Führen eines 7-köpfigen Softwareentwicklungsteams in der Webentwicklung mit Front- und Backendkomponenten
+              - Aufbau und Unterhalt der firmenspezifischen Continuous Integration und Continuous Delivery (CI/CD) bestehend aus Versionskontrolle, Testautomaten und der Übersetzung des Codes innerhalb von automatisierten Pipelines
+              - Erarbeiten von kundenspezifischen Offerten für Digitalisierungsprojekte in der 2. Säule mit anschliessender Präsentation der technischen Lösung vor der Geschäftsführung des Kunden
+
+        - layout: left
+          title: c-alm AG
+          link: https://c-alm.ch
+          # link_text: boringcompany.com
+          sub_title: Full Stack Software Engineer
+          caption: November 2015 - September 2018
+          quote: >
+            The Pension Consultant
+          description: | # this will include new lines to allow paragraphs
+              - Durchführung von kompletten Software-Lebenszyklen in verschiedenen Kundenprojekten, wie Webseiten oder Webportalen mit agilen Methoden
+              - Entwicklung eines Webportals in Kooperation mit einem Anbieter für Verwaltungssysteme in der 2. Säule
+
+    - title: Ausbildung # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Universität Zürich
+          caption: 2019 - 2021
+          sub_title: MSc in Informatik
+
+          description: | # this will include new lines to allow paragraphs
+            - Hauptfach: Wirtschaftsinformatik
+            - Nebenfach: Volkswirtschaftslehre
+            - Durchschnitt: 5.5 (summa cum laude)
+
+        - layout: left
+          title: Universität Zürich
+          caption: 2013 - 2016
+          sub_title: BA in Volkswirtschaftslehre
+
+          description: | # this will include new lines to allow paragraphs
+            - Hauptfach: Volkswirtschaftslehre
+            - Durchschnitt: 5.5 (summa cum laude)
+
+
   - title: Projekte # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -243,59 +306,13 @@ content:
 
           <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Angular</mark>, <mark>MariaDB</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>
 
-  - title: Berufserfahrung # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Staubli Software Solutions
-        link: https://staubli-software-solutions.ch
-        # link_text: boringcompany.com
-        sub_title: Owner/Freelancer
-        caption: August 2020 - heute
-        quote: >
-          Your Partner for Web Development
-        description: | # this will include new lines to allow paragraphs
-            - Entwicklung, Support und Hosting von massgeschneiderten Softwarelösungen im Web-Bereich
-            - Umsetzung von proprietären Softwarelösungen und Kundenprojekten in unterschiedlichen Geschäftsbereichen wie FinTech, EdTech und DeFi
-
-      - layout: left
-        title: c-alm AG
-        link: https://c-alm.ch
-        # link_text: boringcompany.com
-        sub_title: CTO
-        caption: Oktober 2018 - August 2020
-        quote: >
-          Your Pension Consultant
-        description: | # this will include new lines to allow paragraphs
-            - Führen eines 7-köpfigen Softwareentwicklungsteams in der Webentwicklung mit Front- und Backendkomponenten
-            - Aufbau und Unterhalt der firmenspezifischen Continuous Integration und Continuous Delivery (CI/CD) bestehend aus Versionskontrolle, Testautomaten und der Übersetzung des Codes innerhalb von automatisierten Pipelines
-            - Erarbeiten von kundenspezifischen Offerten für Digitalisierungsprojekte in der 2. Säule mit anschliessender Präsentation der technischen Lösung vor der Geschäftsführung des Kunden
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Noch ein wenig mehr über mich...
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Neben meinem Interesse an der Software-Entwicklung sind einige meiner anderen Interessen und Hobbys:
+      - Gitarre spielen
+      - Zaubern
+      - Kochen
 
 # Footer
 footer_show_references: true

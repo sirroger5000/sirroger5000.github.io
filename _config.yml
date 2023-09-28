@@ -45,34 +45,39 @@ youtube_username: @rs-crypto-university
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Über Mich
 about_profile_image: images/roger.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Als Softwareentwickler mit 9 Jahren Erfahrung verfüge ich über umfangreiche Kenntnisse in der Entwicklung von Webanwendungen mit <mark>Java</mark>, <mark>Spring</mark> und <mark>Angular</mark>.
+  Als Softwareentwickler mit 9 Jahren Erfahrung verfüge ich über umfangreiche Kenntnisse in der Entwicklung von Webanwendungen mit <mark>Java</mark>, <mark>Spring Boot</mark> und <mark>Angular</mark>.
   Ich habe an einer Vielzahl von Projekten gearbeitet und dabei wertvolle Erfahrungen in der agilen Entwicklung, der Entwicklung von RESTful APIs und dem Umgang mit verschiedenen Frameworks gesammelt.
   Mein Fachwissen und meine Berufserfahrung decken dabei den gesamten Prozess der Softwareentwicklung ab und reichen von der Anforderungsanalyse über Konzept, Design und Implementation bis zum Testing und dem Betrieb von komplexen Systemen.
 
   Ich bin stolz auf meine Arbeit an anspruchsvollen Projekten, bei denen ich innovative Lösungen entwickelt habe, um komplexe Probleme zu lösen und die Benutzererfahrung zu verbessern. Ich bin immer bestrebt, meine Fähigkeiten und Kenntnisse zu erweitern und auf dem neuesten Stand der Technologie zu bleiben.
 
 content:
-  - title: Projects # Title for the section
+  - title: Projekte # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Grizzly.fi, MonetaDAO
+        link: grizzly.fi
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Defi for everyone!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Grizzly.fi ist eine Krypto-Plattform, die das Investieren in die besten Möglichkeiten des DeFi Bereichs vereinfacht. Grizzly.fi ist ein Hub für langfristigen Kapitalaufbau. Das Projekt aggregiert verschiedene DeFi Protokolle und Ertragsquellen mit Fokus auf Stabilität und Sicherheit.
+
+          Das Moneta DAO ist eine On-Chain-Community, die die Entwicklung des Moneta-Ökosystems steuert, einem auf Stablecoins ausgerichteten Ökosystem, einschließlich des DeFi-Franc. Moneta DAO wurde von Grizzly.fi entwickelt.
+
+          <strong>Position</strong>
+          Smart Contract Engineer, Software-Entwickler Backend
+
+          <strong>Technologien</strong>
+          <mark>Solidity</mark>, <mark>NodeJS</mark>, <mark>Hardhat</mark>, <mark>ethers.js</mark>, <mark>Angular</mark>, <mark>JWT</mark>, <mark>Docker</mark>
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

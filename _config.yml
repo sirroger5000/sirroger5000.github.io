@@ -48,13 +48,13 @@ youtube_username: "@rs-crypto-university"
 about_title: Über Mich
 about_profile_image: images/roger.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Als Softwareentwickler mit 9 Jahren Erfahrung verfüge ich über umfangreiche Kenntnisse in der Entwicklung von Webanwendungen mit <mark>Java</mark>, <mark>Spring Boot</mark> und <mark>Angular</mark>.
-  Ich habe an einer Vielzahl von Projekten gearbeitet und dabei wertvolle Erfahrungen in der agilen Entwicklung, der Entwicklung von RESTful APIs und dem Umgang mit verschiedenen Frameworks gesammelt.
-  Mein Fachwissen und meine Berufserfahrung decken dabei den gesamten Prozess der Softwareentwicklung ab und reichen von der Anforderungsanalyse über Konzept, Design und Implementation bis zum Testing und dem Betrieb von komplexen Systemen.
-
-  Ich bin stolz auf meine Arbeit an anspruchsvollen Projekten, bei denen ich innovative Lösungen entwickelt habe, um komplexe Probleme zu lösen und die Benutzererfahrung zu verbessern. Ich bin immer bestrebt, meine Fähigkeiten und Kenntnisse zu erweitern und auf dem neuesten Stand der Technologie zu bleiben.
-
   <em>Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. (Steve Jobs)</em>
+
+  Mit stolzen neun Jahren Erfahrung in der Softwareentwicklung stehe ich an der Spitze meiner Branche. Meine Expertise erstreckt sich über die Entwicklung von Webanwendungen mithilfe von Java, Spring Boot und Angular. Während meiner beeindruckenden Karriere habe ich nicht nur als herausragender Softwareentwickler, sondern auch in herausfordernden Führungspositionen geglänzt. Ich habe an zahlreichen Projekten gearbeitet und dabei nicht nur umfassende Kenntnisse in der agilen Entwicklung, der Erstellung von RESTful APIs und der Beherrschung verschiedener Frameworks erworben, sondern auch echte Meilensteine gesetzt.
+
+  Mein Fachwissen und meine berufliche Erfahrung erstrecken sich über den gesamten Softwareentwicklungsprozess, beginnend bei der tiefgreifenden Anforderungsanalyse bis hin zur meisterhaften Umsetzung, umfassenden Tests und dem reibungslosen Betrieb komplexer Systeme. Als CTO konnte ich technische Strategien entwerfen und innovative Lösungen schmieden, die nicht nur technische Herausforderungen bewältigten, sondern auch das Geschäftswachstum in atemberaubender Weise vorantrieben.
+
+  Als erfolgreicher Geschäftsführer von Staubli Software Solutions bin ich nicht nur ein visionärer Technologe, sondern auch ein taktischer Unternehmer. Ich nutze meine umfassende technische Expertise und mein unternehmerisches Geschick, um unser Unternehmen mit großer Entschlossenheit und Leidenschaft zu leiten und dabei herausragende Erfolge zu erzielen. Mein ständiges Bestreben ist es, meine Fähigkeiten und Kenntnisse zu erweitern und stets an vorderster Front der sich rasch entwickelnden Technologiebranche zu stehen, um bahnbrechende Lösungen für unsere Kunden zu entwickeln und Staubli Software Solutions in die Zukunft zu führen.
 
 content:
   - title: Berufserfahrung # Title for the section

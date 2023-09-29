@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Roger Staubli
-title: Full Stack Software Engineer
+title: Unternehmer und leidenschaftlicher Software-Entwickler
 email: roger@staubli-software-solutions.ch
 website: https://staubli-software-solutions.ch
 
@@ -50,11 +50,11 @@ about_profile_image: images/roger.jpg
 about_content: | # this will include new lines to allow paragraphs
   <em>Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. (Steve Jobs)</em>
 
-  Mit stolzen neun Jahren Erfahrung in der Softwareentwicklung stehe ich an der Spitze meiner Branche. Meine Expertise erstreckt sich über die Entwicklung von Webanwendungen mithilfe von Java, Spring Boot und Angular. Während meiner beeindruckenden Karriere habe ich nicht nur als herausragender Softwareentwickler, sondern auch in herausfordernden Führungspositionen geglänzt. Ich habe an zahlreichen Projekten gearbeitet und dabei nicht nur umfassende Kenntnisse in der agilen Entwicklung, der Erstellung von RESTful APIs und der Beherrschung verschiedener Frameworks erworben, sondern auch echte Meilensteine gesetzt.
+  Mit neun Jahren an Expertise in der Softwareentwicklung gehöre ich zu den Spitzenkräften der Branche. Meine Fähigkeiten erstrecken sich über die Entwicklung von Webanwendungen unter Verwendung von Java, Spring Boot und Angular. Während meiner Karriere habe ich nicht nur als herausragender Entwickler, sondern auch in leitenden Positionen geglänzt. Zahlreiche Projekte haben mir umfassende Erfahrungen in agiler Entwicklung, der Erstellung von RESTful APIs und der Beherrschung verschiedener Frameworks verschafft.
 
-  Mein Fachwissen und meine berufliche Erfahrung erstrecken sich über den gesamten Softwareentwicklungsprozess, beginnend bei der tiefgreifenden Anforderungsanalyse bis hin zur meisterhaften Umsetzung, umfassenden Tests und dem reibungslosen Betrieb komplexer Systeme. Als CTO konnte ich technische Strategien entwerfen und innovative Lösungen schmieden, die nicht nur technische Herausforderungen bewältigten, sondern auch das Geschäftswachstum in atemberaubender Weise vorantrieben.
+  Mein Wissen und meine Erfahrung decken den gesamten Softwareentwicklungsprozess ab, von der tiefgreifenden Anforderungsanalyse bis zur reibungslosen Implementierung, umfassenden Tests und dem erfolgreichen Betrieb komplexer Systeme. Als ehemaliger CTO entwickelte ich technische Strategien und kreierte innovative Lösungen, die nicht nur technische Herausforderungen meisterten, sondern auch das Geschäftswachstum in beeindruckendem Maße vorantrieben.
 
-  Als erfolgreicher Geschäftsführer von Staubli Software Solutions bin ich nicht nur ein visionärer Technologe, sondern auch ein taktischer Unternehmer. Ich nutze meine umfassende technische Expertise und mein unternehmerisches Geschick, um unser Unternehmen mit großer Entschlossenheit und Leidenschaft zu leiten und dabei herausragende Erfolge zu erzielen. Mein ständiges Bestreben ist es, meine Fähigkeiten und Kenntnisse zu erweitern und stets an vorderster Front der sich rasch entwickelnden Technologiebranche zu stehen, um bahnbrechende Lösungen für unsere Kunden zu entwickeln und Staubli Software Solutions in die Zukunft zu führen.
+  Heute bin ich stolzer Geschäftsführer von Staubli Software Solutions, einem Unternehmen, das sich auf maßgeschneiderte Softwarelösungen spezialisiert hat. Mit Leidenschaft und Entschlossenheit leite ich das Unternehmen und setze meine Fähigkeiten und Kenntnisse ein, um unsere technologische Führung zu bewahren. Ich bleibe stets an der Spitze der sich rasch entwickelnden Technologiebranche, um innovative Lösungen für unsere Kunden zu entwickeln und Staubli Software Solutions als den Anbieter maßgeschneiderter Softwarelösungen in der Branche zu positionieren.
 
 content:
   - title: Berufserfahrung # Title for the section

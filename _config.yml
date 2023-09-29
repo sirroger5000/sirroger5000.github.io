@@ -69,8 +69,9 @@ content:
         quote: >
           Your Partner for Web Development
         description: | # this will include new lines to allow paragraphs
-            - Entwicklung, Support und Hosting von massgeschneiderten Softwarelösungen im Web-Bereich
-            - Umsetzung von proprietären Softwarelösungen und Kundenprojekten in unterschiedlichen Geschäftsbereichen wie FinTech, EdTech und DeFi
+            - Wir übernehmen die Entwicklung, Support und Hosting von massgeschneiderten Softwarelösungen im Web-Bereich
+            - Wir setzen proprietäre Softwarelösungen und Kundenprojekte in unterschiedlichen Geschäftsbereichen wie FinTech, EdTech und DeFi um
+            - Ich entwickle und setze die langfristige Unternehmensstrategie um. Dabei lege ich Ziele fest, identifiziere Wachstumschancen und stelle sicher, dass alle Aktivitäten auf die Gesamtvision des Unternehmens ausgerichtet sind.
 
       - layout: left
         title: c-alm AG
@@ -81,9 +82,11 @@ content:
         quote: >
           The Pension Consultant
         description: | # this will include new lines to allow paragraphs
-            - Führen eines 7-köpfigen Softwareentwicklungsteams in der Webentwicklung mit Front- und Backendkomponenten
-            - Aufbau und Unterhalt der firmenspezifischen Continuous Integration und Continuous Delivery (CI/CD) bestehend aus Versionskontrolle, Testautomaten und der Übersetzung des Codes innerhalb von automatisierten Pipelines
-            - Erarbeiten von kundenspezifischen Offerten für Digitalisierungsprojekte in der 2. Säule mit anschliessender Präsentation der technischen Lösung vor der Geschäftsführung des Kunden
+            - Führen eines 15-köpfigen Softwareentwicklungsteams in der Webentwicklung mit Front- und Backendkomponenten
+            - Als CTO war ich maßgeblich daran beteiligt, die langfristige technologische Strategie des Unternehmens zu entwickeln. Das umfasste die Identifizierung von Trends und Technologien, die für unser Geschäft relevant waren, sowie die Planung von Investitionen in Forschung und Entwicklung.
+            - Eine meiner Hauptaufgaben war es, innovative technische Lösungen für komplexe Herausforderungen zu konzipieren. Das schloss die Gestaltung neuer Produkte und Dienstleistungen ein, die das Unternehmen differenzierten und einen Mehrwert für unsere Kunden boten.
+            - Als CTO war ich für die Sicherstellung der technischen Qualität unserer Produkte verantwortlich. Das beinhaltete die Implementierung von Best Practices, Clean Code und Clean Architecture in der Softwareentwicklung, um sicherzustellen, dass unsere Produkte robust, sicher und leistungsfähig waren.
+            - Ich war eng in die Pflege von Kundenbeziehungen eingebunden und arbeitete eng mit unseren Kunden zusammen, um deren technische Anforderungen zu verstehen und sicherzustellen, dass unsere Lösungen deren Bedürfnisse erfüllten.
 
       - layout: left
         title: c-alm AG
@@ -94,8 +97,9 @@ content:
         quote: >
           The Pension Consultant
         description: | # this will include new lines to allow paragraphs
-            - Durchführung von kompletten Software-Lebenszyklen in verschiedenen Kundenprojekten, wie Webseiten oder Webportalen mit agilen Methoden
-            - Entwicklung eines Webportals in Kooperation mit einem Anbieter für Verwaltungssysteme in der 2. Säule
+            - Ich führte erfolgreich komplette Software-Lebenszyklen in verschiedenen Kundenprojekten durch, darunter Webseiten und Webportale. Dabei arbeite ich eng mit Kunden zusammen, um Anforderungen zu verstehen und diese in technische Lösungen umzusetzen. Dies erfolgt unter Anwendung agiler Methoden, um Flexibilität und Effizienz sicherzustellen.
+            - In enger Zusammenarbeit mit einem Anbieter für Verwaltungssysteme in der 2. Säule habe ich ein Webportal entwickelt. Diese erfolgreiche Kooperation führte zur Schaffung eines hochfunktionalen und benutzerfreundlichen Webportals, das die Bedürfnisse unserer Kunden optimal erfüllt.
+            - Ich habe mir das Wissen und die Erfahrung angeeignet, um verschiedene Technologien nahtlos zu integrieren und robuste und skalierbare Lösungen zu schaffen. Dazu gehören die Implementierung von APIs, die Anbindung externer Systeme und die Sicherstellung der Datenkonsistenz.
 
   - title: Ausbildung # Title for the section
     layout: list # Type of content section (list/text)
@@ -133,9 +137,11 @@ content:
         quote: >
           Defi for everyone!
         description: | # this will include new lines to allow paragraphs
-          Grizzly.fi ist eine Krypto-Plattform, die das Investieren in die besten Möglichkeiten des DeFi Bereichs vereinfacht. Grizzly.fi ist ein Hub für langfristigen Kapitalaufbau. Das Projekt aggregiert verschiedene DeFi Protokolle und Ertragsquellen mit Fokus auf Stabilität und Sicherheit.
+          Grizzly.fi ist eine der grössten Defi-Plattformen der Binance Smart Chain, die das Investieren in die besten Möglichkeiten im DeFi-Bereich vereinfacht. Unser Ziel bei Grizzly.fi ist es, einen zentralen Anlaufpunkt für langfristigen Kapitalaufbau zu bieten. Unsere Plattform aggregiert verschiedene DeFi-Protokolle und Ertragsquellen, wobei der Schwerpunkt auf Stabilität und Sicherheit liegt.
 
-          Das Moneta DAO ist eine On-Chain-Community, die die Entwicklung des Moneta-Ökosystems steuert, einem auf Stablecoins ausgerichteten Ökosystem, einschließlich des DeFi-Franc. Moneta DAO wurde von Grizzly.fi entwickelt.
+          Das Moneta DAO ist eine On-Chain-Community, die die Entwicklung des Moneta-Ökosystems steuert, einem auf Stablecoins ausgerichteten Ökosystem, das auch den DeFi-Franc umfasst. Moneta DAO wurde von Grizzly.fi entwickelt.
+
+          Beide Plattformen wurden nach den bewährten Praktiken der Softwareentwicklung erstellt. Dabei verfügen alle Smart Contracts über eine 100%ige Testabdeckung und wurden von verschiedenen unabhängigen Stellen auditiert.
 
           <strong>Position</strong>
 

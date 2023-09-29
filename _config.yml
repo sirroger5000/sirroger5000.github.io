@@ -46,15 +46,15 @@ youtube_username: "@rs-crypto-university"
 
 # About Section
 about_title: Über Mich
-about_profile_image: images/roger.jpg
+about_profile_image: images/roger.PNG
 about_content: | # this will include new lines to allow paragraphs
-  <em>Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. (Steve Jobs)</em>
-
   Mit neun Jahren an Expertise in der Softwareentwicklung gehöre ich zu den Spitzenkräften der Branche. Meine Fähigkeiten erstrecken sich über die Entwicklung von Webanwendungen unter Verwendung von Java, Spring Boot und Angular. Während meiner Karriere habe ich nicht nur als herausragender Entwickler, sondern auch in leitenden Positionen geglänzt. Zahlreiche Projekte haben mir umfassende Erfahrungen in agiler Entwicklung, der Erstellung von RESTful APIs und der Beherrschung verschiedener Frameworks verschafft.
 
   Mein Wissen und meine Erfahrung decken den gesamten Softwareentwicklungsprozess ab, von der tiefgreifenden Anforderungsanalyse bis zur reibungslosen Implementierung, umfassenden Tests und dem erfolgreichen Betrieb komplexer Systeme. Als ehemaliger CTO entwickelte ich technische Strategien und kreierte innovative Lösungen, die nicht nur technische Herausforderungen meisterten, sondern auch das Geschäftswachstum in beeindruckendem Maße vorantrieben.
 
   Heute bin ich stolzer Geschäftsführer von Staubli Software Solutions, einem Unternehmen, das sich auf maßgeschneiderte Softwarelösungen spezialisiert hat. Mit Leidenschaft und Entschlossenheit leite ich das Unternehmen und setze meine Fähigkeiten und Kenntnisse ein, um unsere technologische Führung zu bewahren. Ich bleibe stets an der Spitze der sich rasch entwickelnden Technologiebranche, um innovative Lösungen für unsere Kunden zu entwickeln und Staubli Software Solutions als den Anbieter maßgeschneiderter Softwarelösungen in der Branche zu positionieren.
+
+  <em>Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. (Steve Jobs)</em>
 
 content:
   - title: Berufserfahrung # Title for the section

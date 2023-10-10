@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Mein Wissen und meine Erfahrung decken den gesamten Softwareentwicklungsprozess ab, von der tiefgreifenden Anforderungsanalyse bis zur reibungslosen Implementierung, umfassenden Tests und dem erfolgreichen Betrieb komplexer Systeme. Als ehemaliger CTO entwickelte ich technische Strategien und kreierte innovative Lösungen, die nicht nur technische Herausforderungen meisterten, sondern auch das Geschäftswachstum in beeindruckendem Maße vorantrieben.
 
-  Heute bin ich stolzer Geschäftsführer von Staubli Software Solutions, einem Unternehmen, das sich auf maßgeschneiderte Softwarelösungen spezialisiert hat. Mit Leidenschaft und Entschlossenheit leite ich das Unternehmen und setze meine Fähigkeiten und Kenntnisse ein, um unsere technologische Führung zu bewahren. Ich bleibe stets an der Spitze der sich rasch entwickelnden Technologiebranche, um innovative Lösungen für unsere Kunden zu entwickeln und Staubli Software Solutions als den Anbieter maßgeschneiderter Softwarelösungen in der Branche zu positionieren.
+  Heute bin ich stolzer Geschäftsführer von Staubli Software Solutions, einem Unternehmen, das sich auf maßgeschneiderte Softwarelösungen spezialisiert hat. Trotz meiner aktuellen Rolle habe ich mich dazu entschieden, meine berufliche Ausrichtung zu erweitern und bin auf der Suche nach einer Festanstellung in einer anderen Position. Mit meiner langjährigen Erfahrung und meinen Fähigkeiten in der Technologiebranche strebe ich danach, neue Herausforderungen anzunehmen und mich in einem neuen beruflichen Umfeld weiterzuentwickeln. Ich bin motiviert, meine Kenntnisse und Expertise in verschiedenen Bereichen einzusetzen und freue mich auf die Gelegenheit, meinen Beitrag in einer anderen Position zu leisten.
 
   <em>Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. (Steve Jobs)</em>
 
@@ -124,11 +124,12 @@ content:
           - Durchschnitt: 5.5 (summa cum laude)
 
 
-  - title: Projekte # Title for the section
+  - title: Auswahl Projekte # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Grizzly.fi, MonetaDAO
+        caption: Nov. 2021 - heute
         link: grizzly.fi
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -152,7 +153,29 @@ content:
           <mark>Solidity</mark>, <mark>NodeJS</mark>, <mark>Hardhat</mark>, <mark>ethers.js</mark>, <mark>Angular</mark>, <mark>JWT</mark>, <mark>Docker</mark>
 
       - layout: top-middle
+        title: edumint
+        link: edumint.io
+        caption: Apr. 2023 - Aug. 2023
+        # link_text: Project Website
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Simple, Secure and Verifiable Digital Certificates
+        description: | # this will include new lines to allow paragraphs
+          Edumint.io ist eine Web-Plattform, die sich auf die Spezialisierung von Zertifikaten in Form von NFTs konzentriert. Die Plattform erlaubt es Bildungsinstituten sich zu registrieren, Templates von Zertifikaten zu erstellen und dann direkt als NFT auf die Blockchain zu schreiben. Dadurch wird ein persönlicher QR-Code erstellt, welcher zusätzlich zum physischen Zertifikat ausgegeben werden kann. Firmen oder andere Stakeholder können anschliessend das Zertifikat verifizieren und sicherstellen, von welchem Bildungsinstitut es ausgegeben worden ist und dass es von niemand verändert oder verfälscht worden ist.
+
+          <strong>Position</strong>
+
+          Software-Entwickler Frontend, Backend und Smart Contract
+
+          <strong>Technologien</strong>
+
+          <mark>Solidity</mark>, <mark>NodeJS</mark>, <mark>Hardhat</mark>, <mark>ethers.js</mark>, <mark>Angular</mark>, <mark>JWT</mark>, <mark>IPFS</mark>, <mark>Docker</mark>
+
+      - layout: top-middle
         title: Smart Dossier
+        caption: Nov. 2020 - Jan. 2023
         # link: grizzly.fi
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -172,27 +195,29 @@ content:
           <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>MongoDB</mark>, <mark>Docker</mark>, <mark>JWT</mark>
 
       - layout: top-middle
-        title: edumint
-        link: edumint.io
+        title: Plattform Freiwilligenarbeit
+        caption: Aug. 2020 - Jan. 2022
+        link: https://freiwilligenarbeit-sursee.ch
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Simple, Secure and Verifiable Digital Certificates
+          The Platform for Voluntray Work
         description: | # this will include new lines to allow paragraphs
-          Edumint.io ist eine Web-Plattform, die sich auf die Spezialisierung von Zertifikaten in Form von NFTs konzentriert. Die Plattform erlaubt es Bildungsinstituten sich zu registrieren, Templates von Zertifikaten zu erstellen und dann direkt als NFT auf die Blockchain zu schreiben. Dadurch wird ein persönlicher QR-Code erstellt, welcher zusätzlich zum physischen Zertifikat ausgegeben werden kann. Firmen oder andere Stakeholder können anschliessend das Zertifikat verifizieren und sicherstellen, von welchem Bildungsinstitut es ausgegeben worden ist und dass es von niemand verändert oder verfälscht worden ist.
+          Erstellung der Plattform Freiwilligenarbeit für die Stadt Sempach und Sursee, wo Organisationen sich registrieren können und Angebote und Inserate aufschalten können
 
           <strong>Position</strong>
 
-          Software-Entwickler Frontend, Backend und Smart Contract
+          Frontend/Backend Software-Engineer
 
           <strong>Technologien</strong>
 
-          <mark>Solidity</mark>, <mark>NodeJS</mark>, <mark>Hardhat</mark>, <mark>ethers.js</mark>, <mark>Angular</mark>, <mark>JWT</mark>, <mark>IPFS</mark>, <mark>Docker</mark>
+          <mark>Angular</mark>, <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>JPA</mark>, <mark>Postgresql</mark>, <mark>Docker</mark>
 
       - layout: top-middle
         title: BHFS Riskprofiler
+        caption: Jan. 2021 - Jul. 2021
         link: https://bhfs.ch/index.php/demo-tool/
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -212,28 +237,8 @@ content:
           <mark>Angular</mark>, <mark>NodeJS</mark>, <mark>SVG</mark>, <mark>Docker</mark>, <mark>Azure</mark>
 
       - layout: top-middle
-        title: Plattform Freiwilligenarbeit
-        link: https://freiwilligenarbeit-sursee.ch
-        # link_text: Project Website
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          The Platform for Voluntray Work
-        description: | # this will include new lines to allow paragraphs
-          Erstellung der Plattform Freiwilligenarbeit für die Stadt Sempach und Sursee, wo Organisationen sich registrieren können und Angebote und Inserate aufschalten können
-
-          <strong>Position</strong>
-
-          Frontend/Backend Software-Engineer
-
-          <strong>Technologien</strong>
-
-          <mark>Angular</mark>, <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>JPA</mark>, <mark>Postgresql</mark>, <mark>Docker</mark>
-
-
-      - layout: top-middle
         title: Math-learn
+        caption: Aug. 2020 - Feb. 2021
         link: https://math-learn.ch
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -255,6 +260,7 @@ content:
 
       - layout: top-middle
         title: Stiftung Auffangeinrichtung
+        caption: Jan. 2019 - Okt. 2020
         link: https://aeis.ch
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -273,18 +279,18 @@ content:
 
           <mark>Angular</mark>, <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>MariaDB</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>
 
-
       - layout: top-middle
-        title: Rentenrechner BVG
-        # link: grizzly.fi
+        title: Real-DB
+        caption: Jan. 2018 - Sep. 2018
+        link: https://real-db.swiss
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          The Configurable Pension Calculator
+          Making Illiquid Assets Accessible
         description: | # this will include new lines to allow paragraphs
-          Erstellung von unterschiedlichen, webbasierten BVG-Rentenrechner für Pensionskassen. Dabei können Leistungen angesehen werden und Szenarien wie Frühpensionierung, Einkauf etc. durchgeführt werden.
+          Eigenentwicklung der RealDB, eine Web-Plattform, die es Providern ermöglicht, illiquide Investments zu listen. Investoren können diese einzigartigen Investments dort finden und Kennzahlen, Reports etc. anschauen für die Due Diligence.
 
           <strong>Position</strong>
 
@@ -295,16 +301,17 @@ content:
           <mark>Java</mark>, <mark>Spring Boot</mark>, <mark>Angular</mark>, <mark>MariaDB</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>
 
       - layout: top-middle
-        title: Real-DB
-        link: https://real-db.swiss
+        title: Rentenrechner BVG
+        caption: Jan. 2016 - Jun. 2018
+        # link: grizzly.fi
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Making Illiquid Assets Accessible
+          The Configurable Pension Calculator
         description: | # this will include new lines to allow paragraphs
-          Eigenentwicklung der RealDB, eine Web-Plattform, die es Providern ermöglicht, illiquide Investments zu listen. Investoren können diese einzigartigen Investments dort finden und Kennzahlen, Reports etc. anschauen für die Due Diligence.
+          Erstellung von unterschiedlichen, webbasierten BVG-Rentenrechner für Pensionskassen. Dabei können Leistungen angesehen werden und Szenarien wie Frühpensionierung, Einkauf etc. durchgeführt werden.
 
           <strong>Position</strong>
 
